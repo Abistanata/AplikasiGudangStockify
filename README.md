@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📦 Stockify - Manajemen Stok Gudang Modern
 
 **Stockify** adalah aplikasi web berbasis Laravel untuk mengelola stok barang masuk dan keluar di gudang, toko, atau bisnis retail. Dirancang agar mudah digunakan, aman, dan mendukung pelaporan stok serta transaksi secara real-time.
@@ -168,3 +169,6 @@ MIT License © 2025 Stokyfiy
 **Stockify** - Solusi stok gudang modern, mudah, dan powerful!
 
 
+=======
+# AplikasiGudangStockify
+>>>>>>> 637487247ce6abafa3a6ae28f64889d21c0a6643
