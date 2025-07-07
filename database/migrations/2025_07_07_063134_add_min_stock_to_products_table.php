@@ -11,9 +11,7 @@ return new class extends Migration
      */
    public function up(): void
 {
-    Schema::table('products', function (Blueprint $table) {
-        $table->integer('min_stock')->default(0); // atau nullable jika opsional
-    });
+   
 }
 
 public function down(): void
